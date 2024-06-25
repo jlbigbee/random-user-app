@@ -16,6 +16,7 @@
 		D00FE5472C2AA93E00BACD14 /* social_media_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00FE5462C2AA93E00BACD14 /* social_media_appUITestsLaunchTests.swift */; };
 		D00FE5542C2AA96700BACD14 /* UserFetchingClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00FE5532C2AA96700BACD14 /* UserFetchingClient.swift */; };
 		D00FE5562C2AAC8900BACD14 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00FE5552C2AAC8900BACD14 /* UserData.swift */; };
+		D00FE5582C2AADEE00BACD14 /* UsersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00FE5572C2AADEE00BACD14 /* UsersView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		D00FE5462C2AA93E00BACD14 /* social_media_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = social_media_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D00FE5532C2AA96700BACD14 /* UserFetchingClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFetchingClient.swift; sourceTree = "<group>"; };
 		D00FE5552C2AAC8900BACD14 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		D00FE5572C2AADEE00BACD14 /* UsersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D00FE52B2C2AA93D00BACD14 /* ContentView.swift */,
 				D00FE5532C2AA96700BACD14 /* UserFetchingClient.swift */,
 				D00FE5552C2AAC8900BACD14 /* UserData.swift */,
+				D00FE5572C2AADEE00BACD14 /* UsersView.swift */,
 				D00FE52D2C2AA93E00BACD14 /* Assets.xcassets */,
 				D00FE52F2C2AA93E00BACD14 /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D00FE5582C2AADEE00BACD14 /* UsersView.swift in Sources */,
 				D00FE52C2C2AA93D00BACD14 /* ContentView.swift in Sources */,
 				D00FE52A2C2AA93D00BACD14 /* social_media_appApp.swift in Sources */,
 				D00FE5562C2AAC8900BACD14 /* UserData.swift in Sources */,

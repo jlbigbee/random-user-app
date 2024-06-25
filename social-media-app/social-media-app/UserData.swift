@@ -7,8 +7,9 @@
 
 import Foundation
 
-class UserData {
-  var users: String = ""
+@MainActor
+class UserData: ObservableObject {
+    @Published var users: String = ""
 
   init() {
     Task {
