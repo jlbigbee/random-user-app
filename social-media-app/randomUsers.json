@@ -1,0 +1,290 @@
+{
+results: [
+{
+gender: "male",
+name: {
+title: "Mr",
+first: "Henning",
+last: "Hegdal"
+},
+location: {
+street: {
+number: 3074,
+name: "Smalåkeren"
+},
+city: "Forland",
+state: "Rogaland",
+country: "Norway",
+postcode: "7502",
+coordinates: {
+latitude: "41.0063",
+longitude: "-145.6093"
+},
+timezone: {
+offset: "+5:00",
+description: "Ekaterinburg, Islamabad, Karachi, Tashkent"
+}
+},
+email: "henning.hegdal@example.com",
+login: {
+uuid: "54b4c2a3-0a71-49d6-a5af-44ca70c9efdb",
+username: "redzebra328",
+password: "europa",
+salt: "cPChL2A4",
+md5: "067ba5164bc1e1951db9662e311fe052",
+sha1: "59e704072d09db42066cb84f6e0c0b2495cc7b03",
+sha256: "cfcbab367f6b26153fdff96279083af54e2a91f012a90f97d2e730fba99c0729"
+},
+dob: {
+date: "1960-02-17T00:06:00.068Z",
+age: 64
+},
+registered: {
+date: "2017-05-23T18:21:26.634Z",
+age: 7
+},
+phone: "50759987",
+cell: "90788037",
+id: {
+name: "FN",
+value: "17026044561"
+},
+picture: {
+large: "https://randomuser.me/api/portraits/men/62.jpg",
+medium: "https://randomuser.me/api/portraits/med/men/62.jpg",
+thumbnail: "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+},
+nat: "NO"
+},
+{
+gender: "female",
+name: {
+title: "Ms",
+first: "Miriam",
+last: "Owens"
+},
+location: {
+street: {
+number: 6355,
+name: "Pecan Acres Ln"
+},
+city: "Australian Capital Territory",
+state: "Tasmania",
+country: "Australia",
+postcode: 3900,
+coordinates: {
+latitude: "77.3038",
+longitude: "-179.6370"
+},
+timezone: {
+offset: "+3:30",
+description: "Tehran"
+}
+},
+email: "miriam.owens@example.com",
+login: {
+uuid: "bed05c95-1d0e-4bae-9a91-ae9a24e3c317",
+username: "heavyelephant838",
+password: "arturo",
+salt: "MQis5nXo",
+md5: "b4dcaa15cd3576d31f3a181085248224",
+sha1: "a460e062eaafb18157924a991f52a78dbf50a730",
+sha256: "4ca9bdc23d3b7ae033b6a4f76e79673094f1f5cb35c28d03dd4f9bd742b21a43"
+},
+dob: {
+date: "1991-11-19T16:00:33.698Z",
+age: 32
+},
+registered: {
+date: "2006-06-04T22:05:57.961Z",
+age: 18
+},
+phone: "09-3555-6133",
+cell: "0420-789-161",
+id: {
+name: "TFN",
+value: "997675966"
+},
+picture: {
+large: "https://randomuser.me/api/portraits/women/64.jpg",
+medium: "https://randomuser.me/api/portraits/med/women/64.jpg",
+thumbnail: "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+},
+nat: "AU"
+},
+{
+gender: "female",
+name: {
+title: "Miss",
+first: "Lena",
+last: "Berger"
+},
+location: {
+street: {
+number: 7347,
+name: "Rue Pasteur"
+},
+city: "Mulhouse",
+state: "Corrèze",
+country: "France",
+postcode: 75423,
+coordinates: {
+latitude: "-47.6358",
+longitude: "115.5387"
+},
+timezone: {
+offset: "+4:30",
+description: "Kabul"
+}
+},
+email: "lena.berger@example.com",
+login: {
+uuid: "d3ae6989-9255-430c-9e2a-2ffcac8faa66",
+username: "sadkoala787",
+password: "babyface",
+salt: "ph1ilp7f",
+md5: "cae2d888b8fca620d13e10ce31c8e9fd",
+sha1: "9d03f51da7cf08194b9eb325c12f009340f8318d",
+sha256: "67a2aff90213fb88cd8c602481039fb634e2dccd81dde88bb0235e8ab630d7fe"
+},
+dob: {
+date: "1972-10-14T08:08:52.680Z",
+age: 51
+},
+registered: {
+date: "2020-11-07T03:19:23.555Z",
+age: 3
+},
+phone: "02-60-72-65-16",
+cell: "06-45-47-32-05",
+id: {
+name: "INSEE",
+value: "2720939952569 90"
+},
+picture: {
+large: "https://randomuser.me/api/portraits/women/81.jpg",
+medium: "https://randomuser.me/api/portraits/med/women/81.jpg",
+thumbnail: "https://randomuser.me/api/portraits/thumb/women/81.jpg"
+},
+nat: "FR"
+},
+{
+gender: "female",
+name: {
+title: "Ms",
+first: "Pamela",
+last: "Reyes"
+},
+location: {
+street: {
+number: 8815,
+name: "Lakeview St"
+},
+city: "Geraldton",
+state: "New South Wales",
+country: "Australia",
+postcode: 3737,
+coordinates: {
+latitude: "24.2760",
+longitude: "6.5277"
+},
+timezone: {
+offset: "+6:00",
+description: "Almaty, Dhaka, Colombo"
+}
+},
+email: "pamela.reyes@example.com",
+login: {
+uuid: "00abe82b-31d2-424f-91b6-c7ed3a1b4982",
+username: "happylion532",
+password: "0007",
+salt: "RVHO9dg8",
+md5: "ead2f66563b40afa3127cca6ab2c4e4b",
+sha1: "58499c05e9bce96602e9668e7ca9393d18df1482",
+sha256: "c9a6175d882e83b372bcb172089a2970e426af31a776bebb1ecc369a7ef682bc"
+},
+dob: {
+date: "1984-06-20T23:41:37.492Z",
+age: 40
+},
+registered: {
+date: "2019-10-12T08:48:25.248Z",
+age: 4
+},
+phone: "01-3198-1872",
+cell: "0473-920-188",
+id: {
+name: "TFN",
+value: "490297077"
+},
+picture: {
+large: "https://randomuser.me/api/portraits/women/71.jpg",
+medium: "https://randomuser.me/api/portraits/med/women/71.jpg",
+thumbnail: "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+},
+nat: "AU"
+},
+{
+gender: "female",
+name: {
+title: "Miss",
+first: "Bernabé",
+last: "Tejada"
+},
+location: {
+street: {
+number: 5883,
+name: "Ampliación Sur Carrera"
+},
+city: "Cajititlán",
+state: "Yucatan",
+country: "Mexico",
+postcode: 27070,
+coordinates: {
+latitude: "21.8088",
+longitude: "-23.8449"
+},
+timezone: {
+offset: "+4:30",
+description: "Kabul"
+}
+},
+email: "bernabe.tejada@example.com",
+login: {
+uuid: "87b54085-ff84-48ae-8ccb-dce763bbc8af",
+username: "organicdog686",
+password: "trans",
+salt: "ToZngU4X",
+md5: "2fc79bc1b11ae1566fbf4e29065fcc9a",
+sha1: "62cbff4c55c119fb3b0e3a5c3672c1126085879a",
+sha256: "59d4dc5c32e866303743945c310178b49af7d80bee33802f82857e0527f44050"
+},
+dob: {
+date: "1980-12-10T15:14:47.619Z",
+age: 43
+},
+registered: {
+date: "2016-03-09T20:39:30.489Z",
+age: 8
+},
+phone: "(667) 445 9566",
+cell: "(682) 121 5176",
+id: {
+name: "NSS",
+value: "35 53 06 2845 7"
+},
+picture: {
+large: "https://randomuser.me/api/portraits/women/65.jpg",
+medium: "https://randomuser.me/api/portraits/med/women/65.jpg",
+thumbnail: "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+},
+nat: "MX"
+}
+],
+info: {
+seed: "45389f4e5947f550",
+results: 5,
+page: 1,
+version: "1.4"
+}
+}
